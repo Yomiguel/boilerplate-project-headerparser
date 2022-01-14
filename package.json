@@ -1,4 +1,9 @@
 {
+	"author": {
+		"name": "Luis Miguel Jimenez",
+		"Email": "yomiguel112@gmail.com",
+		"gitHub": "https://github.com/Yomiguel"
+	},
 	"name": "request_header",
 	"version": "0.0.1",
 	"description": "API project for freeCodeCamp",
